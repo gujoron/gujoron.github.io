@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "강론 테스트"
+title:  "124Welcome to Jekyll!"
 date:   2016-02-19 14:44:25 +0900
 categories: jekyll update
 ---
