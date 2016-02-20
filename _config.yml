@@ -9,7 +9,7 @@
 title: 구조론 연구소 자료
 email: gujoron911@gmail.com
 description: > # 구조론 연구소 자료,구조론
-baseurl: "/column" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gujoron.github.io" # the base hostname & protocol for your site
 twitter_username: gujoron
 github_username:  gujoron
