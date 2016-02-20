@@ -139,9 +139,11 @@ categories: jekyll update
 
 
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-
-    ![aDSC01523.JPG](http://gujoron.github.io/files/attach/images/198/457/676/aDSC01523.JPG)
+![aDSC01523.JPG](http://gujoron.github.io/files/attach/images/198/457/676/aDSC01523.JPG)
+![aDSC01523.JPG](files/attach/images/198/457/676/aDSC01523.JPG)
+![aDSC01523.JPG](/files/attach/images/198/457/676/aDSC01523.JPG)
 
 
 
