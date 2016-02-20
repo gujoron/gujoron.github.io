@@ -11,7 +11,7 @@ categories: jekyll update
 
 
 
-    ** 2. 정치본능
+** 2. 정치본능
 
 서열을 올린다. 청년은 위세행동에서 의義로 갈아타라.**
 
@@ -26,7 +26,7 @@ categories: jekyll update
 
 
 
-    ** 3. 역할본능
+** 3. 역할본능
 
 자아를 찾는다. 장년은 역할게임에서 스타일로 갈아타라.**
 
@@ -139,10 +139,7 @@ categories: jekyll update
 
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-![aDSC01523.JPG](http://gujoron.github.io/files/attach/images/198/457/676/aDSC01523.JPG)
-![aDSC01523.JPG](files/attach/images/198/457/676/aDSC01523.JPG)
 ![aDSC01523.JPG](/files/attach/images/198/457/676/aDSC01523.JPG)
 
 
