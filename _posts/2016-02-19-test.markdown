@@ -141,7 +141,7 @@ categories: jekyll update
 
 
 
-    ![aDSC01523.JPG](/files/attach/images/198/457/676/aDSC01523.JPG)
+    ![aDSC01523.JPG](http://gujoron.github.io/files/attach/images/198/457/676/aDSC01523.JPG)
 
 
 
