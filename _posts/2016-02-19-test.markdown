@@ -1,10 +1,3 @@
-﻿---
-layout: post
-title:  "gogo"
-date:   2016-02-19 14:44:25 +0900
-categories: jekyll update
----
-
 ---
 layout: post
 title:  "gogo"
@@ -12,7 +5,7 @@ date:   2016-02-19 14:44:25 +0900
 categories: jekyll update
 ---
 
-ㄱ 인은 소통능력이자 공감능력이다. 인이 없는 사람은 자신이 집단과 분리되어 있다는 공포에 빠진다. 그리고 귀신을 만들어낸다.    
+인은 소통능력이자 공감능력이다. 인이 없는 사람은 자신이 집단과 분리되어 있다는 공포에 빠진다. 그리고 귀신을 만들어낸다.    
      
 곧 괴력난신이다. 이를 극복하지 못하면 귀신을 무서워하고, 마녀사냥, 명예살인, 인신공양과 같은 일베행동을 한다. 사람을 죽이면 그 고통이 모두에게 전파되어 집단이 굳게 결속하기 때문이다. 종교가 이 본능을 해결하지만 이번에는 종교가 그 상태에 머무르게 한다. 환자가 종교라는 병원에서 귀신병을 치료받지만 퇴원하지는 못한다. </p>  
 
@@ -151,8 +144,6 @@ categories: jekyll update
 
     ![](files/attach/images/198/457/676/aDSC01523.JPG) 
     ![aDSC01523.JPG](files/attach/images/198/457/676/aDSC01523.JPG) 
-    <img src="files/attach/images/198/457/676/aDSC01523.JPG" alt="aDSC01523.JPG" width="240" height="342" /> 
-    <img src="files/attach/images/198/457/676/aDSC01523.JPG" alt="aDSC01523.JPG" width="240" height="342" /> 
 
  ![aDSC01523.JPG](files/attach/images/198/457/676/aDSC01523.JPG)  
 
