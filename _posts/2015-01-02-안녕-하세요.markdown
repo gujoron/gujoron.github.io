@@ -140,12 +140,6 @@ categories: jekyll update
   
 
 
-
-    ![](/files/attach/images/198/457/676/aDSC01523.JPG) 
-    ![aDSC01523.JPG](/files/attach/images/198/457/676/aDSC01523.JPG) 
-    <img src="files/attach/images/198/457/676/aDSC01523.JPG" alt="aDSC01523.JPG" width="240" height="342" /> 
-    <img src="files/attach/images/198/457/676/aDSC01523.JPG" alt="aDSC01523.JPG" width="240" height="342" /> 
-
  ![aDSC01523.JPG](/files/attach/images/198/457/676/aDSC01523.JPG)  
 
 
