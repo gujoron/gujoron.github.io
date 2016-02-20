@@ -8,7 +8,7 @@
 # Site settings
 title: 구조론 연구소 자료
 email: gujoron911@gmail.com
-description: > # 구조론 연구소 자료,구조론
+description: > # http://gujoron.com 의 주요 자료를 자동 백업 합니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gujoron.github.io" # the base hostname & protocol for your site
 twitter_username: gujoron
