@@ -1,8 +1,0 @@
----
-layout: post
-title: 스투닷컴에서 펍니다.
-date: 2009-05-27 10:50:30 +0900
-categories: 시사칼럼
----
-  
-<IMG alt=11111.jpg src="files/attach/images/159/401/031/11111.jpg" ><IMG alt=22222.jpg src="files/attach/images/159/401/031/22222.jpg" >

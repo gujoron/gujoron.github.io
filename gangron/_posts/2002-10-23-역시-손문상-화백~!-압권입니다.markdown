@@ -1,7 +1,0 @@
----
-layout: post
-title: 역시 손문상 화백~! 압권입니다.
-date: 2002-10-23 10:44:48 +0900
-categories: 깨달음의대화
----
-<img src= "http://news.busanilbo.com/electron/pusan_news/CARTOON/2002/1022/2.jpg">
