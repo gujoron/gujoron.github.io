@@ -1,0 +1,7 @@
+---
+layout: post
+title: 그림설명
+date: 2010-07-03 18:51:11 +0900
+categories: 깨달음의대화
+---
+<IMG alt=z1.JPG src="assets/attach/images/198/777/102/z1.JPG" width=549 height=1433>

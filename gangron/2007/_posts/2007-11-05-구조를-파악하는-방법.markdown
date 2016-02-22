@@ -1,0 +1,45 @@
+---
+layout: post
+title: 구조를 파악하는 방법
+date: 2007-11-05 17:56:08 +0900
+categories: 깨달음의대화
+---
+<A NAME="[문서의 처음]"></A> 
+
+<P STYLE='font-family:"바탕";font-size:10.000pt;color:"#000000";text-align:justify;line-height:160%;text-indent:0.000px;margin-left:0.000px;margin-right:0.000px;margin-top:0.000px;margin-bottom:0.000px;'>
+  <b>구조를 파악하는 방법</b>
+</P>
+
+<P STYLE='font-family:"바탕";font-size:10.000pt;color:"#000000";text-align:justify;line-height:160%;text-indent:0.000px;margin-left:0.000px;margin-right:0.000px;margin-top:0.000px;margin-bottom:0.000px;'>
+  <BR />
+</P>
+
+<P STYLE='font-family:"바탕";font-size:10.000pt;color:"#000000";text-align:justify;line-height:160%;text-indent:0.000px;margin-left:0.000px;margin-right:0.000px;margin-top:0.000px;margin-bottom:0.000px;'>
+  세상의 모든 존재는 주어 동사다. 주어에 주목하면 동사(형용사)로 표현되고 동어반복의 오류에 빠진다. 반면 동사에 주목하면 관계가 보인다. 관계는 메커니즘이고 이는 명사로 표현된다.
+</P>
+
+<P STYLE='font-family:"바탕";font-size:10.000pt;color:"#000000";text-align:justify;line-height:160%;text-indent:0.000px;margin-left:0.000px;margin-right:0.000px;margin-top:0.000px;margin-bottom:0.000px;'>
+  <BR />
+</P>
+
+<P STYLE='font-family:"바탕";font-size:10.000pt;color:"#000000";text-align:justify;line-height:160%;text-indent:0.000px;margin-left:0.000px;margin-right:0.000px;margin-top:0.000px;margin-bottom:0.000px;'>
+  바람이 불다. ‘불다’를 명사로 바꾸면 ‘불음’이 된다. 불음이 바람이다. 바람과 불다는 명사냐 동사냐일 뿐 본질에서 같다. 바람에 주목하면 불다에 도달하고 끝난다. 불음에 주목하면 밀도차 곧 기압의 존재를 발견할 수 있다.
+</P>
+
+<P STYLE='font-family:"바탕";font-size:10.000pt;color:"#000000";text-align:justify;line-height:160%;text-indent:0.000px;margin-left:0.000px;margin-right:0.000px;margin-top:0.000px;margin-bottom:0.000px;'>
+  <BR />
+</P>
+
+<P STYLE='font-family:"바탕";font-size:10.000pt;color:"#000000";text-align:justify;line-height:160%;text-indent:0.000px;margin-left:0.000px;margin-right:0.000px;margin-top:0.000px;margin-bottom:0.000px;'>
+  입으로 바람을 불어본다. 입속이 입 바깥보다 공기의 밀도가 높다. 기압의 차이에 의해서 공기가 특정 방향으로 이동한다는 동역학적 메커니즘이 발견된다. ‘~이면 ~이다’를 충족하는 방정식의 확립이다.
+</P>
+
+<P STYLE='font-family:"바탕";font-size:10.000pt;color:"#000000";text-align:justify;line-height:160%;text-indent:0.000px;margin-left:0.000px;margin-right:0.000px;margin-top:0.000px;margin-bottom:0.000px;'>
+  <BR />
+</P>
+
+<P STYLE='font-family:"바탕";font-size:10.000pt;color:"#000000";text-align:justify;line-height:160%;text-indent:0.000px;margin-left:0.000px;margin-right:0.000px;margin-top:0.000px;margin-bottom:0.000px;'>
+  비로소 답을 찾았다. 가만이 관찰해 보면 세상의 모든 법칙이 결국 이와 같은 한 가지 패턴으로 되어 있다는 사실을 알 수 있다. 이것으로 세상의 모든 문제를 풀 수 있다는 확신이 들었다.(발췌)
+</P>
+
+\***.. 제가 얻어낸 모든 지혜는 이 하나의 방법에서 나온 것이오. 나는 이것을 초등학교4학년때 고안해서 이후로 무수히 써먹고 있소.이 내용은 아래 구조론의 착상에 추가한 부분이오.

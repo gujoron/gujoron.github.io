@@ -1,0 +1,6 @@
+---
+layout: post
+title: 호기심테스트
+date: 2003-06-21 12:11:17 +0900
+categories: 깨달음의대화
+---
