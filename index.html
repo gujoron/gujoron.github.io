@@ -18,6 +18,14 @@ layout: default
     {% endfor %}
   </ul>
 
+
+{% for category in site.categories %}
+  <li><a name="{{ category | first }}">{{ category | first }}</a>
+    <ul>
+    </ul>
+  </li>
+{% endfor %}
+
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
