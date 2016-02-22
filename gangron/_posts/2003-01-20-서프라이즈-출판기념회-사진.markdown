@@ -1,7 +1,0 @@
----
-layout: post
-title: 서프라이즈 출판기념회 사진
-date: 2003-01-20 13:32:34 +0900
-categories: 깨달음의대화
----
-<img src="./files/attach/images/198/985/1043037154.jpg" border="0" alt="" />

@@ -1,7 +1,0 @@
----
-layout: post
-title: 왜 나만~!
-date: 2003-07-22 13:10:19 +0900
-categories: 깨달음의대화
----
-<img src="./files/attach/images/198/320/001/1058847019.jpg" border="0" alt="" />

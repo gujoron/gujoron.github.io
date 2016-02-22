@@ -1,7 +1,0 @@
----
-layout: post
-title: 계단을 오르는 휠체어
-date: 2003-04-28 10:52:18 +0900
-categories: 깨달음의대화
----
-<img src="./files/attach/images/198/094/001/1051494738.JPG" border="0" alt="" />

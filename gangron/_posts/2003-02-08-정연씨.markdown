@@ -1,7 +1,0 @@
----
-layout: post
-title: 정연씨
-date: 2003-02-08 18:48:58 +0900
-categories: 깨달음의대화
----
-<img src="./files/attach/images/198/009/001/1044697738.jpg" border="0" alt="" />
