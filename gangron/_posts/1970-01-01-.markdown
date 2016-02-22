@@ -1,0 +1,6 @@
+---
+layout: post
+title: 
+date: 1970-01-01 09:00:00 +0900
+categories: 깨달음의대화
+---

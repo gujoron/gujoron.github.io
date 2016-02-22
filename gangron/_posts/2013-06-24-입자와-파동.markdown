@@ -1,0 +1,7 @@
+---
+layout: post
+title: 입자와 파동
+date: 2013-06-24 23:49:51 +0900
+categories: 깨달음의대화
+---
+ <img alt="1.GIF" src="files/attach/images/198/627/362/1.GIF" width="400" height="908" />
