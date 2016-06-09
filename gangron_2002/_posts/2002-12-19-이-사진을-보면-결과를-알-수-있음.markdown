@@ -1,0 +1,7 @@
+---
+layout: post
+title: 이 사진을 보면 결과를 알 수 있음
+date: 2002-12-19 12:56:44 +0900
+categories: 깨달음의대화
+---
+<img src="./assets/attach/images/198/923/1040270204.jpg" border="0" alt="" />

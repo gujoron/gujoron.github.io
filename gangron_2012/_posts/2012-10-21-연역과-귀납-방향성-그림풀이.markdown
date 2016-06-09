@@ -1,0 +1,145 @@
+---
+layout: post
+title: 연역과 귀납 방향성 그림풀이
+date: 2012-10-21 18:22:22 +0900
+categories: 깨달음의대화
+---
+그림1
+
+  
+
+
+  
+A에서 B로 가는 방법은 무엇일까?
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>가장 쉬운 방법은 중간에서 만나는 표지들을 기억해 두었다가 찾아가는 방법이다. 이것이 귀납이다. 개별적인 사실을 모아 전체의 원리를 찾는다. 개별적인 루트를 모아 전체의 루트를 완성한다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>이 방법은 가짜다. 개별적인 루트를 찾을 수 없다. 대개 우연히 얻은 경험에 의존하며 그것은 작은 연역이다. 엄밀한 의미에서 귀납은 존재하지 않으며 다만 작은 연역들의 무질서한 집합을 귀납이라 하는 것이다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>이는 불완전한 방법이다. 중간의 표지들이 이동하거나 사라질 수 있기 때문이다. 각주구검의 어리석음과 같다. 필자가 개미들을 관측한 바에 의하면 개미들은 눈으로 보고 길을 찾는 것이 아니었다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>개미들은 무질서하게 배회하는 방법을 쓴다. 우연히 길을 찾으면 냄새로 표시를 해 둔다. 개미들은 냄새로 길을 찾아가기 때문에 앞서간 개미가 실수를 하면 뒤에 따라오는 개미 모두가 실수를 한다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>개미떼의 행렬을 보았는데 모든 개미들이 중간에 패인 작은 홈으로 들어갔다 나오는 것이다. 그 홈은 폭과 깊이가 1.5센티 밖에 안 되므로 충분히 옆으로 비켜갈 수 있다. 지켜보다 답답해진 필자가 흙으로 홈을 메워버렸다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>그러자 개미들은 모두 달려들어 메워진 홈을 다시 파내기 시작했다. 흙을 파내기 위해 개미들이 메워진 흙 위로 올라선 순간 이미 새 루트가 완성되었다. 그래도 개미들은 고집스럽게 홈을 파냈다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>필자가 메워놓은 홈을 개미들이 원상복구 시켜놓고 모든 개미들이 바보같이 그 홈 속으로 한번씩 들어갔다 나오는 것이었다. 아무 이유 없다. 냄새가 그곳에 있기 때문에 냄새따라 가는 것이다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>귀납적 사고에 빠진 새누리떼의 모습을 보는 것과 같다. 박정희 구멍, 전두환 구멍, 유신구멍이 메워진지 30년 지났는데도 고집스럽게 그 홈을 다시 파내고 있었다. 어리석게도 모두들 독재구멍으로 한번씩 들어갔다 나오는 것이었다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>이유는 딱 하나다. 이넘들은 눈이 졸라리 나쁜 것이다. 거의 장님이 아닌가. 1.5센티 앞을 못본다는 말인가. 과연 그랬다. 인간이 귀납하는 이유는 딱 하나다. 눈이 나쁘기 때문이다. 안경만 쓰면 해결된다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>연역해야 한다. 연역은 전체의 구조를 알고 가는 것이다. 나침반과 지도를 가지고 가는 것이다. 별빛보고 가는 것이다. 중간의 표지들은 무시해야 한다. 인간이 연역하지 못하는 이유는 전달할 방법이 없기 때문이다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>선지자가 있어서 A에서 B까지 가는 루트를 알았다 해도 말로 설명할 수 없다. 그냥 중간의 표지들을 찍어주고 그 표지를 찾아가라고 하는게 빠르다. 그런데 그 표지는 내것이 아니다. 남의 것이다. 이동해 버린다. 사라진다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>내것으로 말해야 진짜다. 나침반과 지도는 내 안에 있다. 내 마음 안에 있고 내 머리 속에 기억되어 있다. 별빛을 보고 길을 찾는다면 그 지식은 내 안에 있다. 온전히 내것이므로 길을 찾아갈 수 있다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>연역은 중간에 루트가 변경되거나 장애물이 나타나도 비켜갈 수 있다. 애초에 중간의 표지들은 무시하기 때문이다. 즉 전체를 통일한 하나의 루트를 아는 것이며 여러 작은 루트들의 집합이 아니다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>연역은 시작과 끝만 보고 중간을 생략한다. 대개 현실은 원인이 결과를 낳고 다시 결과가 원인을 낳고 하면서 반복된다. 진보가 보수를 낳고 보수가 진보를 낳는다. 민주당의 과업이 새누리당의 승리를 낳고 새누리당의 업보가 민주당의 승리를 낳는다. 근데 그러한 중간과정들은 생략이다. 소거된다. 개무시다. 없다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>극한의 법칙을 통해 중간루트들을 지워버릴 수 있다. 별빛을 보고 길을 찾으면 시작과 끝만 알면 된다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>학벌, 연고, 인맥 따위의 끈은 모두 귀납 아저씨들이 섬기는 중간의 표지들이다. 일시적으로는 의사소통을 빠르게 하지만 시대의 변화가 그들을 곤란하게 한다. 모두 지워버려라.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>오직 시작과 끝만 챙겨라. 시작은 신이고 끝은 사람이다. 신과 인간 사이에 직통전화를 개설하라. 중간의 브로커들 빼고 박원순 시장에게 직접 연락하라. 트위터로는 가능하다. 세상의 모든 비극은 중간그룹들의 배신 때문이다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>그들은 원래 배신한다. 왜? 세월이 흐르고 바람이 바뀌기 때문이다. 그들은 이동하거나 치워진다. 그러한 변화가 귀납적 사고에 빠진 인간들을 헷갈리게 한다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>인간이 연역하지 못하는 이유는 딱 하나다. 추상적 사고에 약하기 때문이다. 예컨대 권리라는 말은 저울의 추를 쥐었다는 뜻이다. 근데 권리를 생각하면서도 저울추를 생각하는 사람이 몇이나 될까?
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>인권은 무엇일까? 어떤 왕이 죄수를 사형시키려고 했다. 그런데 실패했다. 왜? 그 죄수가 사형집행인이었기 때문이다. 그 나라의 법에 따르면 사형은 사형집행인만이 하게 되어 있고 그 직업은 세습되는 것이었다. 그 나라에 사형집행인은 한 명 밖에 없었던 것이다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>왕은 명령을 내렸다. ‘네가 너를 사형시켜라.’ 그러자 사형집행인인 사형수가 말했다. 제가 건강이 안 좋아서 집행일을 연기해야겠는데요? 그 나라의 법에 따르면 사형집행인은 날자를 선택할 권리가 있었다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>무엇인가? 양반과 상놈이 싸우면 양반이 이긴다. 사또는 양반이 임금에게 올리는 상소의 힘을 두려워하기 때문이다. 근데 형방은 상놈의 친척이다. 아전은 원래 양반이 아니기 때문이다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>그러므로 양반이 재판에 이겨봤자 얻는게 없다. 곤장 100대의 벌이 내려졌지만 뒷돈을 받은 형방은 소리만 크게 나고 아프지 않게 곤장을 때리는 것이었다. 무엇인가? 이건 물리적 현상이다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>왕이 아무리 힘이 세도 그것을 집행하려면 반드시 아랫사람을 통해야 하고 그때 아랫사람이 방해할 수 있다. 저울추를 바로 그 아랫사람이 쥐고 있기 때문이다. 저울은 왕이 가지고 있다. 그런데 직접 저울에 달지 않고 하인을 시킨다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>하인은 신분이 낮으므로 백성의 편이다. 인권은 어떤 법이든 제도든 관습이든 결국 사람을 통해야 한다는 원리 때문에 생겨난 거다. 근데 개나 고양이를 통과하지는 않는다. 그러므로 개권이나 묘권은 없고 인권만 있다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>일을 하려면 누군가를 통해야 하며 그 루트에 위치한 자는 모두 권리를 가진다. 만인이 모두 그 루트에 포진하고 있기 때문에 만인이 인권을 가지는 것이다. 이를 머리 속에서 그림으로 알아야 한다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>자유나 평등이나 사랑이나 행복이나 존엄과 같은 추상적 단어들을 그림으로 그려가지고 있는지 의문이다. 여러분은 어떤가? 사과를 따려면 사과밭으로 가야 한다. 근데 울타리가 가시다. 못들어간다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>사과밭이 질이고 사과는 입자다. 입자로 가려면 질을 통과해야 한다. 이것이 머리 속에 그림으로 그려져 있어야 한다. 집을 지으려면 대지를 구해야 한다. 대지를 통하지 않고 집을 지으려면 허공에 지어야 한다. 무리다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>사람을 사귀려면 그 사람의 바운더리 안으로 들어가야 한다. 네티즌을 사귀려면 인터넷을 해야 한다. 대학생을 사귀려면 대학생이 되어야 한다. 반드시 통과해야 하는 길목이 있으며 그곳이 질이다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>존엄은 어떤 어미가 있고 밑에 새끼들이 딸려 있으며 또 그 새끼의 새끼들이 딸려 있어서 그 대상을 건드리려면 그 그룹 전체를 건드려야 하는데 매우 어렵지만 대신 거기에 도달만 하면 그 그룹 전체를 손에 넣을 수 있으므로 매우 이로운 그런 것이다. 이런 그림이 그려져야 한다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>사랑은 해금과 그 해금을 켜는 활처럼 서로 다른 위치에 존재하지만 중간에서 만나고 만나면 소리를 내는 그 어떤 것이다. 그들은 만나면 서로를 강력하게 구속하지만 항상 구속하지는 않는다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>그들은 서로의 일에 관여하지 않으며 독립해 있지만 어떤 임무가 주어졌을 때는 맹렬하게 개입하여 완전히 하나가 된다. 그러다가 임무가 해제되면 언제 그랬느냐는 듯이 서로 독립해 있다. 이런 그림이 있어야 한다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>그런 그림을 가지는 것이 연역이다. 그림이 있으면 여러곳에 두루 써먹을 수 있기 때문이다. 결국 사람들이 연역을 못하는 것은 머리 속에 그림을 그리는 능력이 떨어지기 때문이더라는 것이다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>A와 B를 머리 속에 공존시키지 못한다. 서울에서 부산을 가려면 머리 속에 지도를 띄우고 여기 서울, 저기 부산 찍고 중간에 천안, 대전, 대구가 딱 딱 딱 놓여져야 한다. 이건 훈련해야 한다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>한꺼번에 다섯 개의 포지션을 찍어야 하며 넷밖에 못 찍었다면 뭐가 하나 빠진 것이다. 질, 입자, 힘, 운동, 량을 각각 추궁하여 각각 채워넣어야 한다.
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+  <a href="?mid=WaytoWin" target="_self" style="color: rgb(51, 51, 51); "><img src="assets/attach/images/199/290/248/123456.JPG" alt="0.JPG" title="0.JPG" width="200" height="287" rel="xe_gallery" style="border: 0px; " /></a>
+</p>
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+</p>
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+  <b><a href="http://gujoron.com/" target="_blank" style="color: rgb(51, 51, 51); ">http://gujoron.com</a></b><br />
+</p>
+
+<p style="color: rgb(51, 51, 51); font-family: 바탕; font-size: 13px; line-height: 21px; text-align: justify; background-color: rgb(255, 255, 255); ">
+  <b>∑</b>
+</p>

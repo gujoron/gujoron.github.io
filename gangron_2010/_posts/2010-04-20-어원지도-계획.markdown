@@ -1,0 +1,60 @@
+---
+layout: post
+title: 어원지도 계획
+date: 2010-04-20 23:55:35 +0900
+categories: 깨달음의대화
+---
+[구조론 아카데미 어원지도 동영상 제작계획 견본입니다.]  
+  
+구조론은 진화론이다. 인간의 뇌도 진화하고 학습도 진화하고 언어도 진화한다. 생물의 진화에 종속과목강문계가 있듯이 언어가 진화하는 코스가 있다. 꼬리에 꼬리를 물고 진화단계를 따라가는 학습이어야 한다.  
+  
+  
+
+
+<IMG alt=1.GIF src="assets/attach/images/198/530/089/1.GIF" width=358 height=249>  
+  
+각각 질 입자 힘 운동 량을 나타낸다.  
+
+
+**###**
+
+
+
+언어의 뿌리는 대칭성이다. 엄마와 아빠, 母와 夫, mama와 papa에 공통되는 M과 B(F, P)의 대칭성을 관찰할 수 있다. 최초에 M이 있었고 B는 M과 반대로 소리낸 것이다. 입을 다물면 M, 벌리면 B다.
+
+
+
+물(mere)과 불(fire)의 대칭도 같다. 물은 모이고 불은 흩어진다. 물그룹에 속하는 단어는 모두 모여서 뭉친다는 뜻이 있고, 불그룹에 속하는 단어는 모두 타오르는 불처럼 퍼져나간다는 뜻이 있다. 
+
+어원지도는 대칭성을 기본으로 하여 전개된다. 
+
+**∑**   
+  
+<IMG alt=12.GIF src="assets/attach/images/198/530/089/12.GIF" width=770 height=1064>  
+  
+물과 불의 대칭에서 물>물렁하다>뭉치다로 발전하고 불>불다(바람)>부풀다로 발전한다. 텍스트를 모두 아이콘으로 나타내고 아이콘에 마우스를 가져다 대면 동영상과 사운드가 나타나게 한다.  
+  
+<P class=HStyle0>물>물렁>뭉치다</P> <P class=HStyle0>
+
+  
+</P> <P class=HStyle0>● 물과 물렁한 것</P> <P class=HStyle0>물 mere(호수)</P> <P class=HStyle0>  
+</P> <P class=HStyle0>물안에 marine 바다의</P> <P class=HStyle0>못 moat 해자</P> <P class=HStyle0>물자리 marsh가 습지 </P> <P class=HStyle0>  
+</P> <P class=HStyle0>물오르지 mirage 사막에 물오른 신기루</P> <P class=HStyle0>물오른것 miracle 사막에 물오른 기적</P> <P class=HStyle0>물올라 mirror 물에 올려보면 거울</P> <P class=HStyle0>  
+</P> <P class=HStyle0>물렁 mire 수렁</P> <P class=HStyle0>물든 melt 녹이다</P> <P class=HStyle0>묻은 mud 물묻은 진흙</P> <P class=HStyle0>물기 mist 가득한 안개 </P> <P class=HStyle0>  
+</P> <P class=HStyle0>물컹 meek한 것이 온순한. </P> <P class=HStyle0>무른거 meager는 힘없는. </P> <P class=HStyle0>  
+</P> <P class=HStyle0>  
+</P> <P class=HStyle0>● 물렁한 것은 뭉쳐져</P> <P class=HStyle0>  
+</P> <P class=HStyle0>메주 mass는 뭉쳐</P> <P class=HStyle0>밀트 malt는 밀, 맥아</P> <P class=HStyle0>맺혀 mature 열매가 성숙한</P> <P class=HStyle0>뫼 mound는 뭉툭 </P> <P class=HStyle0>묏등 mountain은 뭉툭</P> <P class=HStyle0>멍텅 mitten 멍텅구리장갑</P> <P class=HStyle0>  
+</P> <P class=HStyle0>뭉갤 mingle 뭉개져 섞였어.</P> <P class=HStyle0>뭉갰어 mix 믹스</P> <P class=HStyle0>뭉개늘인 macaroni 마카로니</P> <P class=HStyle0>맹글어 make 뭉개서 맹글다. </P> <P class=HStyle0>만들어 made 뭉개서 만들어.</P> <P class=HStyle0>밀려나 minor 맷돌로 밀어낸</P> <P class=HStyle0>밀어낸수 minus 마이너스</P> <P class=HStyle0>  
+</P> <P class=HStyle0>몰려 more 밀리면 몰려.</P> <P class=HStyle0>묵직 much 몰리면 묵직한 다수</P> <P class=HStyle0>많이 many 몰려서 많이.</P> <P class=HStyle0>몽땅 most 몰려서 무더기 몽땅</P> <P class=HStyle0>마땅 must 몽땅이 마땅</P> <P class=HStyle0>  
+</P> <P class=HStyle0>  
+</P> <P class=HStyle0>  
+</P> <P class=HStyle0>● 불fire을 피워</P> <P class=HStyle0>불꽃 focus 포커스</P> <P class=HStyle0>불칸 volcano 화산</P> <P class=HStyle0>불났지 blaze 화염</P> <P class=HStyle0>  
+</P> <P class=HStyle0>불난 burn 불타다</P> <P class=HStyle0>불켠 beacon 봉화대</P> <P class=HStyle0>불에덴 brand 낙인, 상표</P> <P class=HStyle0>볶아 bake 빵을 볶아</P> <P class=HStyle0>불이 fury 불같은 분노</P> <P class=HStyle0>  
+</P> <P class=HStyle0>피울 fuel 불피울 연료 </P> <P class=HStyle0>피우려 flower는 꽃</P> <P class=HStyle0>피우다 flirt 바람을 피우다</P> <P class=HStyle0>피우다 powder 먼지를 피우다</P> <P class=HStyle0>티피웠어 typhoid는 발진이 피어서 장티푸스</P> <P class=HStyle0>  
+</P> <P class=HStyle0>풀림 pollen은 꽃가루</P> <P class=HStyle0>풀린귀 foliage 가 잎사귀</P> <P class=HStyle0>풀려 flour 밀가루가 풀려</P> <P class=HStyle0>뿜음 fume은 연기</P> <P class=HStyle0>퍽뿜음 perfume은 향료</P> <P class=HStyle0>뿜은거 fog 안개 </P> <P class=HStyle0>풀무 fool 같이 속이 빈 바보</P> <P class=HStyle0>풀무 fun 같은 뻥</P> <P class=HStyle0>펑 fond 좋아하네</P> <P class=HStyle0>  
+</P> <P class=HStyle0>● 불 피우는 바람</P> <P class=HStyle0>  
+</P> <P class=HStyle0>분다 wind 바람</P> <P class=HStyle0>불어치다 blast 돌풍</P> <P class=HStyle0>불었지 breeze 산들바람</P> <P class=HStyle0>부는듯 bland 온화한</P> <P class=HStyle0>불었다 breath 숨</P> <P class=HStyle0>  
+</P> <P class=HStyle0>불어 blow 부싯깃을 불어</P> <P class=HStyle0>부풀어 bubble 불면 부풀어</P> <P class=HStyle0>부풀어 full 불면 부풀어</P> <P class=HStyle0>불룩 fill 부풀게 채워</P> <P class=HStyle0>  
+</P> <P class=HStyle0>불었어 plus 숫자가 불었어.</P> <P class=HStyle0>안 불었어 inflation 안으로 불어난 인플레이션</P> <P class=HStyle0>불다 fat 몸이 불다</P> <P class=HStyle0>불다 bold 퉁퉁 붓다.</P> <P class=HStyle0>보글 boil 보글보글 끓어.</P> <P class=HStyle0>보글 boiler 보글보글 보일러.</P> <P class=HStyle0>불려 brew 보리를 불려 술을 양조</P> <P class=HStyle0>보리 barley 술을 불리는 보리.</P> <P class=HStyle0>버글 folk 거리는 군중</P> <P class=HStyle0>버글 vulgar 버글거리는 저속한.</P> <P class=HStyle0>흘러 flow 불어넘쳐 흘러</P> <P class=HStyle0>흐르지 fuse 흘러 떠다녀</P> <P class=HStyle0>펄펄떠 fleet 떠다니는 함대</P> <P class=HStyle0>펄 fall 낙엽이 펄펄 가을</P> <P class=HStyle0>  
+</P>

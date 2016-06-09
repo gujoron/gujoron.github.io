@@ -1,0 +1,11 @@
+---
+layout: post
+title: 구조론 동영상
+date: 2010-03-22 14:01:01 +0900
+categories: 깨달음의대화
+---
+<img style="BORDER-BOTTOM: #4371b9 2px dotted; BORDER-LEFT: #4371b9 2px dotted; WIDTH: 800px; DISPLAY: block; BACKGROUND: url(modules/editor/components/multimedia\_link/tpl/multimedia\_link\_component.gif) no-repeat center 50%; HEIGHT: 600px; BORDER-TOP: #4371b9 2px dotted; BORDER-RIGHT: #4371b9 2px dotted" alt="" src="common/tpl/images/blank.gif" width="800" height="600" editor\_component="multimedia\_link" auto\_start="false" multimedia\_src="assets/attach/images/198/661/084/100320\_이기환\_구조론동영상\_수정.swf"/> 
+  
+이기준님이 제작한 구조론 동영상입니다. 
+  
+파일을 다운받아 큰 화면으로 보실 수 있습니다.

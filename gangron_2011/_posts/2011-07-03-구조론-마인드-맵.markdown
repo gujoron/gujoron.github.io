@@ -1,0 +1,95 @@
+---
+layout: post
+title: 구조론 마인드 맵
+date: 2011-07-03 21:24:10 +0900
+categories: 깨달음의대화
+---
+ 
+<img alt="4.JPG" src="assets/attach/images/198/929/179/4.JPG" width="434" height="1696" /> 
+
+- 구조론은 연역적 사고다.
+
+- 연역적 사고는 모형 위주의 사고다.
+
+- 먼저 모형이 머리 속에 그려져 있어야 사고를 할 수 있다.
+
+- 모형은 대칭으로부터 시작된다.
+
+- 대칭은 1 속에 2가 들어가는 것이다.
+
+- 대칭의 1은 축이 되고 2는 포지션이 된다.
+
+- 포지션은 작용과 반작용, 원인과 결과, 시작과 끝, 입력과 출력, 음과 양 등 여러가지로 전개된다.
+
+  
+
+
+  
+
+
+
+
+ 
+<img alt="5.JPG" src="assets/attach/images/198/929/179/5.JPG" width="434" height="1332" /> 
+
+모형은 사건이 입력에서 출력, 작용에서 반작용, 원인에서 결과, 시작에서 끝으로 가면서 구체화되는 각 단계를 나타낸다.
+
+
+
+ <img alt="6.JPG" src="assets/attach/images/198/929/179/6.JPG" width="434" height="333" />
+
+  
+
+
+질, 입자, 힘, 운동, 량을 하나의 모형으로 구성하면 바운더리, 센터, 방향, 거리(시간), 결과로 나타난다.
+
+
+
+
+
+ 
+<img alt="7.JPG" src="assets/attach/images/198/929/179/7.JPG" width="384" height="1537" /> 
+
+
+
+
+
+<p style="BACKGROUND: #ffffff; mso-pagination: none; mso-padding-alt: 0pt 0pt 0pt 0pt" class="0">
+</p>
+
+<p style="BACKGROUND: #ffffff; mso-pagination: none; mso-padding-alt: 0pt 0pt 0pt 0pt" class="0">
+  막연히 생각할 것이 아니라 이렇게 모형을 그려놓고 생각을 전개해야 한다.
+</p>
+
+<p style="BACKGROUND: #ffffff; mso-pagination: none; mso-padding-alt: 0pt 0pt 0pt 0pt" class="0">
+</p>
+
+<p style="BACKGROUND: #ffffff; mso-pagination: none; mso-padding-alt: 0pt 0pt 0pt 0pt" class="0">
+  1) 바운더리는 무엇인가?
+</p>
+
+<p style="BACKGROUND: #ffffff; mso-pagination: none; mso-padding-alt: 0pt 0pt 0pt 0pt" class="0">
+  2) 센터는 무엇인가?
+</p>
+
+<p style="BACKGROUND: #ffffff; mso-pagination: none; mso-padding-alt: 0pt 0pt 0pt 0pt" class="0">
+  3) 기어는 무엇인가?
+</p>
+
+<p style="BACKGROUND: #ffffff; mso-pagination: none; mso-padding-alt: 0pt 0pt 0pt 0pt" class="0">
+  4) 암(arm)은 무엇인가?
+</p>
+
+<p style="BACKGROUND: #ffffff; mso-pagination: none; mso-padding-alt: 0pt 0pt 0pt 0pt" class="0">
+  5) 날은 무엇인가?
+</p>
+
+<p style="BACKGROUND: #ffffff; mso-pagination: none; mso-padding-alt: 0pt 0pt 0pt 0pt" class="0">
+</p>
+
+<p style="BACKGROUND: #ffffff; mso-pagination: none; mso-padding-alt: 0pt 0pt 0pt 0pt" class="0">
+  이 다섯가지를 생각하면서 마인드맵을 그려야 한다. 다섯 개의 가지를 찾아가는 것이다. 그리고 이 다섯은 각각 대칭이 있다. 각각 시소를 이루고 있다.
+</p>
+
+<p style="BACKGROUND: #ffffff; mso-pagination: none; mso-padding-alt: 0pt 0pt 0pt 0pt" class="0">
+</p>

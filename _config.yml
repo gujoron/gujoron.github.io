@@ -16,3 +16,9 @@ github_username:  gujoron
 
 # Build settings
 markdown: kramdown
+
+
+paginate:         5
+paginate_path:    '/gangron_2002/page:num'
+
+
