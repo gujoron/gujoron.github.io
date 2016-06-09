@@ -1,9 +1,0 @@
----
-layout: post
-title: 메기의 추억
-date: 2003-06-01 16:12:37 +0900
-categories: 깨달음의대화
----
-<img src="./assets/attach/images/198/179/001/1054451557.jpg" border="0" alt="" />  
-  
-메기가 사람도 잡아먹겠다.

@@ -1,7 +1,0 @@
----
-layout: post
-title: 바람과 함께 사라지다
-date: 2002-11-20 14:40:13 +0900
-categories: 깨달음의대화
----
-<img src="./assets/attach/images/198/726/1037770813.jpg" border="0" alt="" />

@@ -1,7 +1,0 @@
----
-layout: post
-title: 군대가서 좋은 점
-date: 2003-07-14 22:08:12 +0900
-categories: 깨달음의대화
----
-<img src="./assets/attach/images/198/300/001/1058188092.jpg" border="0" alt="" />

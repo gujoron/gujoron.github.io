@@ -1,7 +1,0 @@
----
-layout: post
-title: 화장실의 명상
-date: 2003-05-03 16:19:48 +0900
-categories: 깨달음의대화
----
-<img src="./assets/attach/images/198/105/001/1051946388.JPG" border="0" alt="" />
