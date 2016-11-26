@@ -1,7 +1,0 @@
----
-layout: post
-title: 손문상화백의 부산일보 만평
-date: 2002-10-28 12:47:32 +0900
-categories: 깨달음의대화
----
-<img src="./assets/attach/images/198/588/1035776852.jpg" border="0" alt="" />

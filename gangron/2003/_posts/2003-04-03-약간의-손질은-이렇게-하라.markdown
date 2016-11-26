@@ -1,9 +1,0 @@
----
-layout: post
-title: 약간의 손질은 이렇게 하라
-date: 2003-04-03 17:22:48 +0900
-categories: 깨달음의대화
----
-<img src="./assets/attach/images/198/062/001/1049358168.jpg" border="0" alt="" />  
-  
-- 위 왼쪽과 오른쪽을 합성하여 아래를 만든 영국 카메라기자는 해고되었다.

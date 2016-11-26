@@ -1,7 +1,0 @@
----
-layout: post
-title: 지구의 평화
-date: 2003-04-27 16:55:39 +0900
-categories: 깨달음의대화
----
-<img src="./assets/attach/images/198/092/001/1051430139.JPG" border="0" alt="" />
