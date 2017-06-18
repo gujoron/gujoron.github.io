@@ -28,7 +28,7 @@ future: true
 collections:
   authors:
     output: true
-    permalink: /authors/:path/
+    permalink: /projects/:path/
   tags:
     output: true
     permalink: /tags/:path/
