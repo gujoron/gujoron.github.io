@@ -39,7 +39,8 @@
         $('#search').submit(function (e) {
             e.preventDefault();
             var q = $('#searchQueryEdit').val();
-            var url = 'http://search.daum.net/search?q=' + encodeURIComponent(q + ' site:tech.kakao.com');
+
+            var url = 'https://www.google.co.kr/search?hl=ko&as_qdr=all&as_sitesearch=gujoron.github.io&as_occt=any&safe=images&as_filetype=&as_rights&as_q=' + encodeURIComponent(q);
             window.open(url, '', '_blank');
         });
 
