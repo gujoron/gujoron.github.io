@@ -12,9 +12,9 @@
         <input id="searchQueryEdit" name="q" type="search" placeholder="Search..." value="" />
     </form>
     <ul id="menu" class="nav">
-        <li class="{% if page.url != '/tags/컬럼/' and page.url != '/tags/깨달음의대화/' and  page.url != '/help/'  %} active {% endif %}"><a href="{{ base_path }}/">대문</a></li>
-        <li class="{% if page.url == '/tags/컬럼' %} active {% endif %}"><a href="{{ base_path }}/tags/컬럼/">시사컬럼</a></li>
-        <li class="{% if page.url == '/tags/깨달음의대화' %} active {% endif %}"><a href="{{ base_path }}/tags/깨달음의대화/">깨달음의 대화</a></li>
-        <li class="{% if page.url == '/help/' %} active {% endif %}"><a href="{{ base_path }}/help/">안내</a></li>
+        <li class="{% if page.url != "/tags/컬럼/" and page.url != "/tags/깨달음의대화/" and  page.url != "/help/"  %} active {% endif %}"><a href="{{ base_path }}/">대문</a></li>
+        <li class="{% if page.url == "/tags/컬럼" %} active {% endif %}"><a href="{{ base_path }}/tags/컬럼/">시사컬럼</a></li>
+        <li class="{% if page.url == "/tags/깨달음의대화" %} active {% endif %}"><a href="{{ base_path }}/tags/깨달음의대화/">깨달음의 대화</a></li>
+        <li class="{% if page.url == "/help/" %} active {% endif %}"><a href="{{ base_path }}/help/">안내</a></li>
     </ul>
 </div><!-- #header -->
