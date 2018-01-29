@@ -31,16 +31,6 @@ kbd {
     font-weight: 300;
 }
 
-code.highlighter-rouge {
-  padding: 0;
-  padding-top: 0.2em;
-  padding-bottom: 0.2em;
-  margin: 0;
-  font-size: 85%;
-  background-color: rgba(27,31,35,0.05);
-  border-radius: 3px;
-}
-
 b, strong, optgroup {
     font-weight: 400;
 }
@@ -269,36 +259,6 @@ for small screen(<720px):
     color: #1e1e1e;
 }
 
-/** Search result dropdown **/
-.search__results {
-    display: block;
-    background: #fff;
-    list-style: none;
-    padding: 0px;
-    font-size: 14px;
-    transition: 0.2s ease;
-    position: absolute;
-    width: 550px;
-    -webkit-box-shadow: 0 8px 17px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
-    box-shadow: 0 8px 17px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
-    border-radius: 2px;
-    border: 0;
-    z-index: 999; top: 45px; right: 0px;
-    line-height: 22px;
-}
-.search__results.is-hidden {
-    opacity: 0;
-    transform: translateY(-1vh);
-    display: none;
-}
-.search__results > li {
-    border-top: 1px solid #f0f0f0;
-    padding: 10px;
-}
-.search__results > li > a {
-    padding: 10px;
-}
-
 #wrapper {
     padding-bottom: 100px;
     background-color: #f4f4f4;
@@ -512,20 +472,6 @@ for small screen(<720px):
     width: 20px;
     height: 20px;
     margin-left: 5px;
-}
-
-#shares > li.talk {
-    display: none;
-}
-
-#kakao-link-btn {
-    background: url(../images/pc/share_talk.png) no-repeat;
-    background-size: 20px 20px;
-}
-
-#share-kakaostory {
-    background: url(../images/pc/share_story.png) no-repeat;
-    background-size: 20px 20px;
 }
 
 #share-facebook {
@@ -834,13 +780,19 @@ body.tag-template #navbar {
     padding-bottom: 10px;
 }
 
+/*
+    font-size: 16px;
+    line-height: 28px; /* 28px = 16(font-size) + 12(line-spacing) */
+*/
+
 #post-content {
     position: relative;
     margin: 0 40px;
     padding: 70px 40px 100px 40px; /* 40(margin) + 40(padding) = 80 */
     border-bottom: 1px solid #e6e6e6;
-    font-size: 16px;
-    line-height: 28px; /* 28px = 16(font-size) + 12(line-spacing) */
+    font-size: 18px;
+    line-height: 30px; /* 28px = 16(font-size) + 12(line-spacing) */
+
     text-align: justify;
 }
 
@@ -1132,7 +1084,7 @@ body.page-template {
     right: 0;
     width: 149px;
     height: 149px;
-    z-index: 998;
+    z-index: 999;
     background: url(../images/forkme_kakao_tr.png) no-repeat;
     margin-right: -45px;
 }
@@ -1243,12 +1195,6 @@ body.page-template {
         background-image: url(../images/mo/icon_search.png);
     }
 
-    .search__results {
-        width: 100%;
-        font-size: 12px;
-        top: 98px;
-    }
-
     /* footer */
     #footer {
         height: 240px; /* 240px >= 90(#links height) + 20 + 12(#footer-menu height) + 10 + 12(#copyright height) + 90 */
@@ -1333,16 +1279,6 @@ body.page-template {
     #shares > li > * {
         width: 22px;
         height: 22px;
-    }
-
-    #kakao-link-btn {
-        background-image: url(../images/mo/share_talk.png);
-        background-size: 22px 22px;
-    }
-
-    #share-kakaostory {
-        background-image: url(../images/mo/share_story.png);
-        background-size: 22px 22px;
     }
 
     #share-facebook {
@@ -1631,16 +1567,6 @@ body.page-template {
         background-image: url(../images/mo/icon_larrow@2x.png);
     }
 
-    #kakao-link-btn {
-        background-image: url(../images/mo/share_talk@2x.png);
-        background-size: 22px 22px;
-    }
-
-    #share-kakaostory {
-        background-image: url(../images/mo/share_story@2x.png);
-        background-size: 22px 22px;
-    }
-
     #share-facebook {
         background-image: url(../images/mo/share_face@2x.png);
     }
@@ -1721,16 +1647,6 @@ body.page-template {
         background-image: url(../images/mo/icon_larrow@3x.png);
     }
 
-    #kakao-link-btn {
-        background-image: url(../images/mo/share_talk@3x.png);
-        background-size: 22px 22px;
-    }
-
-    #share-kakaostory {
-        background-image: url(../images/mo/share_story@3x.png);
-        background-size: 22px 22px;
-    }
-
     #share-facebook {
         background-image: url(../images/mo/share_face@3x.png);
     }
@@ -1755,6 +1671,3 @@ body.page-template {
         background-image: url(../images/mo/default_pic_l@3x.png);
     }
 }
-
-
-
